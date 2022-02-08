@@ -23,7 +23,7 @@ python3 detect.py \
   --labels ${TEST_DATA}/coco_labels.txt
 """
 import argparse
-import cv2
+#import cv2
 import os
 
 from pycoral.adapters.common import input_size
