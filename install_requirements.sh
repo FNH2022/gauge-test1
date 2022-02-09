@@ -21,8 +21,8 @@ download() {
 function main() {
 
   download \
-    "ssd_mobilenet_v2_coco_quant_postprocess_edgetpu.tflite" \
-    "coco_labels.txt" \
-    "grace_hopper.bmp"
+    "gauge.png" \
+    "needle.png" \
+    "new_gauge.png"
 
 }
